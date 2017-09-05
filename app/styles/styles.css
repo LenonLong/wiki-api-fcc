@@ -1,0 +1,35 @@
+
+html {
+  height: auto;
+}
+
+body {
+  font-family: 'PT Serif', serif;
+  background-image: url('');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: auto 100%;
+  background: #232526;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to top, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to top, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+#change-font {
+  font-size: 5.4rem;
+  color: #000000;
+  font-family: 'PT Serif', serif;
+}
+
+
+
+li {
+  margin-top: 2%;
+  text-decoration: none;
+  list-style: none;
+  color: #FEEAEA;
+}
+
+a{
+  font-size: 2rem;
+  color: #0A2F8B;
+}
